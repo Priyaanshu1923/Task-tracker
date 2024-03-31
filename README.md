@@ -32,9 +32,9 @@ npm install
 npm start
 ```
 
-## Open your browser and navigate to http://localhost:3000 to view the application.
+Open your browser and navigate to http://localhost:3000 to view the application.
 
-Dependencies
+## Dependencies
 React: JavaScript library for building user interfaces.
 react-icons: Icon library for React components.
 react-router-dom: DOM bindings for React Router, enabling navigation within the application.
