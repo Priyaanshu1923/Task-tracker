@@ -16,4 +16,25 @@ This is a Task Tracker web application built using React. It allows users to man
 
 ```bash
 git clone https://github.com/Priyaanshu1923/Task-tracker.git
+```
 
+Navigate to the project directory:
+```bash
+cd task-tracker
+```
+Install dependencies:
+```bash
+npm install
+```
+
+## Start the development server:
+```bash
+npm start
+```
+
+## Open your browser and navigate to http://localhost:3000 to view the application.
+
+Dependencies
+React: JavaScript library for building user interfaces.
+react-icons: Icon library for React components.
+react-router-dom: DOM bindings for React Router, enabling navigation within the application.
